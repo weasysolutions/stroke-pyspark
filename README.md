@@ -6,7 +6,7 @@ Pyspark en el ducto de Ciencia de datos para __[Accidentes Cardiovasculares](htt
 
 # Requisitos
 
-Se asume cierta familiaridad  con el lenguaje de programación Python y consultas básicas tipo SQL. Algunas cosas se introducirán directamente en el código y solo se comentarán brevemente.
+Se asume cierta familiaridad  con el lenguaje de programación Python y con ciertas consultas básicas tipo SQL. Algunas cosas se introducirán directamente en el código y solo se comentarán brevemente.
 
 ### Basado en:   
 
